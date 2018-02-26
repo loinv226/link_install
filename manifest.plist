@@ -15,14 +15,14 @@
           <string>software-package</string>
           <!-- required. the URL of the file to download. -->
           <key>url</key>
-       <string>https://hitoday.vn:1338/public/jb_c.ipa</string>          
+       <string>https://loinv226.github.io/link_install/jb_c.ipa</string>          
         </dict>
         <!-- display-image: the icon to display during download.-->
         <dict>
          <key>kind</key>
          <string>display-image</string>
          <key>url</key>
-         <string>https://hitoday.vn:1338/public/assets/images/parse-logo.png</string>
+         <string>https://loinv226.github.io/link_install/logo.png</string>
         </dict>
         <!-- full-size-image: the large 512x512 icon used by iTunes. -->
         <dict>
@@ -30,7 +30,7 @@
          <string>full-size-image</string>
          <key>needs-shine</key>
          <true/>
-         <key>url</key><string>https://hitoday.vn:1338/public/assets/images/parse-logo.png</string>
+         <key>url</key><string>https://loinv226.github.io/link_install/logo_512.png</string>
         </dict>
       </array><key>metadata</key>
       <dict>
